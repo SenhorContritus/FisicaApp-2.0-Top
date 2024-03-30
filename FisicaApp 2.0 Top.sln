@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FisicaApp 2.0 Top", "FisicaApp 2.0 Top\FisicaApp 2.0 Top.csproj", "{502486FA-9661-4E48-99C1-FE18AAF1444F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{502486FA-9661-4E48-99C1-FE18AAF1444F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502486FA-9661-4E48-99C1-FE18AAF1444F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502486FA-9661-4E48-99C1-FE18AAF1444F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502486FA-9661-4E48-99C1-FE18AAF1444F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19DB1DBD-AA0A-40C1-9143-8C1CC8F55A31}
+	EndGlobalSection
+EndGlobal
